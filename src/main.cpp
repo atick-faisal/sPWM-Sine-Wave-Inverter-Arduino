@@ -4,7 +4,7 @@
 /*                          Author: Atick Faisal                          */
 /*                           https://atick.dev/                           */
 /**************************************************************************/
-/* Copyright (c) 2019-present Atick Faisal                                */
+/* Copyright (c) 2023-present Atick Faisal                                */
 /*                                                                        */
 /* Permission is hereby granted, free of charge, to any person obtaining  */
 /* a copy of this software and associated documentation files (the        */
@@ -25,7 +25,6 @@
 /* TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE      */
 /* SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                 */
 /**************************************************************************/
-
 
 #include <Arduino.h>
 #include <avr/interrupt.h>
